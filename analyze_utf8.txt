@@ -1,0 +1,10 @@
+﻿Analyzing flutter_application_3...                              
+
+   info - Parameter 'key' could be a super parameter - lib\screens\user_detail_screen.dart:9:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\user_detail_screen.dart:123:58 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\screens\user_list_screen.dart:7:9 - use_super_parameters
+   info - 'surfaceVariant' is deprecated and shouldn't be used. Use surfaceContainerHighest instead. This feature was deprecated after v3.18.0-0.1.pre - lib\screens\user_list_screen.dart:58:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\user_list_screen.dart:92:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\user_list_screen.dart:137:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\user_list_screen.dart:209:51 - deprecated_member_use
+
