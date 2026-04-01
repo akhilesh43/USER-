@@ -1,4 +1,4 @@
-# flutter_application_3
+# flutter_user_details
 
 A new Flutter project.
 
